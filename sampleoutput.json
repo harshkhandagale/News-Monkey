@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Catherine Shoichet, CNN",
+      "title": "New York Bronx fire a 'shock in our country' Gambia ambassador says - CNN",
+      "description": "The Bronx apartment building that was devastated by a deadly fire Sunday had been a beloved home for many immigrants from The Gambia for years, the West African country's ambassador to the US told CNN.",
+      "url": "https://www.cnn.com/2022/01/11/africa/gambian-ambassador-bronx-fire-intl/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220110120913-bronx-fire-aftermath-010922-super-tease.jpg",
+      "publishedAt": "2022-01-12T12:37:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Daily Beast" },
+      "author": "Jamie Ross",
+      "title": "Trump Rage-Quits NPR Interview After He's Grilled on Election-Fraud Lies - The Daily Beast",
+      "description": "NPR’s Steve Inskeep repeatedly told the former president that his election claims were not true before Trump lost his cool.",
+      "url": "https://www.thedailybeast.com/trump-rage-quits-npr-interview-after-hes-grilled-on-election-fraud-lies",
+      "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1687,w_3000,x_0,y_131/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1641984541/GettyImages-1345757724_lvmlxp",
+      "publishedAt": "2022-01-12T12:33:16Z",
+      "content": "Donald Trump abruptly ended an interview with NPR on Tuesday after he was repeatedly called out on his baseless claims of election fraud in the 2020 presidential election.\r\nA video of the interview, … [+3547 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Luke McGee, CNN",
+      "title": "Boris Johnson apologizes for attending Downing Street party during lockdown - CNN",
+      "description": "Boris Johnson has apologized for attending an event in the back garden of 10 Downing Street on May 20, 2020, at which point Britons were prohibited from gathering due to strict coronavirus restrictions.",
+      "url": "https://www.cnn.com/2022/01/12/uk/boris-johnson-pmqs-downing-street-party-intl-gbr/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220112124338-02-boris-pmq-011222-super-tease.jpg",
+      "publishedAt": "2022-01-12T12:10:00Z",
+      "content": "London (CNN)Boris Johnson has apologized for attending an event in the back garden of 10 Downing Street on May 20, 2020, at which point Britons were prohibited from gathering due to strict coronaviru… [+2737 chars]"
+    },
+    {
+      "source": { "id": null, "name": "WGAL Susquehanna Valley Pa." },
+      "author": "Susan Shapiro",
+      "title": "Medical helicopter transporting child from WellSpan Chambersburg Hospital crashes in Delaware County - WGAL Susquehanna Valley Pa.",
+      "description": "The child and three others on board survived.",
+      "url": "https://www.wgal.com/article/medical-helicopter-crash-delaware-county-pa/38739000",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/pennsylvania-medical-helicopter-crash-close-shot-1641987738.png?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "publishedAt": "2022-01-12T12:06:00Z",
+      "content": "UPPER DARBY, Pa. —A medical helicopter transporting a child from WellSpan Chambersburg Hospital crashed Tuesday in Delaware County on the way to Children's Hospital of Philadelphia.\r\nThe LifeNet heli… [+1236 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Paul LeBlanc and Sam Fossum, CNN",
+      "title": "Biden administration will provide K-12 schools with additional 10 million Covid-19 tests per month - CNN",
+      "description": "The Biden administration on Wednesday announced new initiatives to provide an additional 10 million Covid-19 tests per month to schools and students in an effort to keep classrooms open.",
+      "url": "https://www.cnn.com/2022/01/12/politics/school-testing-covid-19-biden-administration/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220111182320-testing-line-new-orleans-school-0107-super-tease.jpg",
+      "publishedAt": "2022-01-12T10:23:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "techradar", "name": "TechRadar" },
+      "author": "James Rogerson",
+      "title": "Samsung Galaxy S22 range could be more expensive than we’d expected - TechRadar",
+      "description": "Every model might cost $100 more than last year's phones",
+      "url": "https://www.techradar.com/news/samsung-galaxy-s22-range-could-be-more-expensive-than-wed-expected",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/SWNAsNpxESC54MoWFfb2bf-1200-80.jpg",
+      "publishedAt": "2022-01-12T10:05:18Z",
+      "content": "Leaks suggest that – with the possible exception of the Samsung Galaxy S22 Ultra – the Samsung Galaxy S22 range won’t be drastically different to the Galaxy S21 range, so we’d assumed pricing would b… [+2370 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Times" },
+      "author": "Amy Qin, Keith Bradsher",
+      "title": "Omicron Deepens Uncertainty Surrounding Beijing Olympics - The New York Times",
+      "description": "With the opening of the Winter Games three weeks away, officials in China are on high alert amid coronavirus outbreaks around the country.",
+      "url": "https://www.nytimes.com/2022/01/12/world/asia/beijing-olympics-covid.html",
+      "urlToImage": "https://static01.nyt.com/images/2022/01/11/world/00virus-olympics-china-01/00virus-olympics-china-01-facebookJumbo.jpg",
+      "publishedAt": "2022-01-12T09:58:10Z",
+      "content": "Whatever difficulties and challenges we may encounter, our determination to host a successful Games as planned remains firm and unwavering, Zhao Weidong, the organizing committee spokesman, said on T… [+1585 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Peter Weber, Senior editor",
+      "title": "Health experts say Omicron is headed for a sharp drop, most Americans will get infected, everyone's confused - Yahoo News",
+      "description": "Health experts say Omicron is headed for a sharp drop, most Americans will get infected, everyone's confused",
+      "url": "https://news.yahoo.com/health-experts-omicron-headed-sharp-095653450.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/P.RALdA2kaTF7bRlPjmi3Q--~B/aD01NjQ7dz04NDU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/the_week_574/3d84aa6f08f979226208aa582011c903",
+      "publishedAt": "2022-01-12T09:56:53Z",
+      "content": "Dr. Janet Woodcock Chip Somodevilla/Getty Images \r\nThere's good news about this Omicron phase of the COVID-19 pandemic, and bad news, but much of it is based on educated guesses and the good and bad … [+2512 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Ivana Kottasová, CNN",
+      "title": "Russia and NATO meet for make-or-break talks on Ukraine crisis - CNN",
+      "description": "Representatives from Russia and NATO are meeting in Brussels on Wednesday for high-stakes talks aimed at defusing growing tensions over Russia's military buildup near the Ukraine border.",
+      "url": "https://www.cnn.com/2022/01/12/europe/nato-russia-council-summit-ukraine-intl/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220112045000-02-nato-russia-talks-01122022-super-tease.jpg",
+      "publishedAt": "2022-01-12T09:29:00Z",
+      "content": "(CNN)Representatives from Russia and NATO are meeting in Brussels on Wednesday for high-stakes talks aimed at defusing growing tensions over Russia's military buildup near the Ukraine border.\r\nThe me… [+1836 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Scream Review (2022) - IGN",
+      "description": "Scream hits theaters on Jan. 14, 2022. Spoiler-free review by Amelia Emberwing.The latest addition to the Scream franchise expertly blends reverence for the ...",
+      "url": "https://www.youtube.com/watch?v=hk6JTu26gTI",
+      "urlToImage": "https://i.ytimg.com/vi/hk6JTu26gTI/hqdefault.jpg",
+      "publishedAt": "2022-01-12T08:01:20Z",
+      "content": null
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "N.Korea's Kim calls for more 'military muscle' after watching hypersonic missile test - Reuters",
+      "description": "North Korean leader Kim Jong Un called for boosting the country's strategic military forces as he observed the test of a <a href=\"https://www.reuters.com/world/asia-pacific/nkorea-launches-possible-ballistic-missile-japan-says-2022-01-10\" target=\"_blank\">hype…",
+      "url": "https://www.reuters.com/world/asia-pacific/nkorea-says-leader-kim-attended-successful-hypersonic-missile-test-2022-01-11/",
+      "urlToImage": "https://www.reuters.com/resizer/yVru7kOBQvHuQMkHdMtYiUnvY9E=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/PRSJABS36FML5BG6MYFAXMIKB4.jpg",
+      "publishedAt": "2022-01-12T07:19:00Z",
+      "content": "SEOUL, Jan 12 (Reuters) - North Korean leader Kim Jong Un called for boosting the country's strategic military forces as he observed the test of a hypersonic missile, state media said on Wednesday, o… [+4620 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Biden pushes overhaul of US election laws in fiery speech - BBC News",
+      "description": "In a fiery speech in Georgia, the president calls on Congress to back his sweeping reforms.",
+      "url": "https://www.bbc.com/news/world-us-canada-59956068",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9E80/production/_122667504_tv073053186.jpg",
+      "publishedAt": "2022-01-12T06:43:46Z",
+      "content": "Image caption, President Biden said the drive to pass his sweeping voting legislation was a \"battle for the soul of America\"\r\nUS President Joe Biden has called for a historic change to Senate rules a… [+6272 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Variety" },
+      "author": "Todd Spangler",
+      "title": "Creator of Wordle Ripoff App Apologizes After Apple Removes His Clone: ‘I F—ed Up’ - Variety",
+      "description": "The developer who created an iOS clone of Wordle — the word-puzzle game that’s gone viral in the last two weeks — issued a mea culpa (sort of) after getting dragged online for ripping off the idea and gleefully bragging about profiting from it. His apology al…",
+      "url": "https://variety.com/2022/digital/news/apple-removes-wordle-clone-app-apologizes-1235151997/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2022/01/wordle.png?w=1024",
+      "publishedAt": "2022-01-12T06:43:00Z",
+      "content": "The developer who created an iOS clone of Wordle — the word-puzzle game that’s gone viral in the last two weeks — issued a mea culpa (sort of) after getting dragged online for ripping off the idea an… [+3938 chars]"
+    },
+    {
+      "source": { "id": null, "name": "FOX 31 Denver" },
+      "author": "Talya Cunningham",
+      "title": "‘Store shelves are already empty’: King Soopers shoppers express concern over pending strike - FOX 31 Denver",
+      "description": "Shoppers can expect some big changes and disruptions on Wednesday and possibly over the next few weeks. Thousands of King Soopers workers are expected to line the streets on strike and shoppers are concerned about what this means for them.",
+      "url": "https://kdvr.com/news/local/store-shelves-are-already-empty-king-soopers-shoppers-express-concern-over-tomorrows-strike/",
+      "urlToImage": "https://kdvr.com/wp-content/uploads/sites/11/2013/07/77261d4b4db7007c7.54366720.jpeg?w=1280",
+      "publishedAt": "2022-01-12T05:51:52Z",
+      "content": "DENVER (KDVR) — Shoppers can expect some big changes and disruptions on Wednesday and possibly over the next few weeks. Thousands of King Soopers workers are expected to line the streets on strike, a… [+2281 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Daily Mail" },
+      "author": "Adam S. Levy",
+      "title": "Candace Cameron Bure expresses grief following Full House co-star Bob Saget's death at 65 - Daily Mail",
+      "description": "Candace, who played D.J. Tanner-Fuller on the 80s hit and its Netflix reboot, posted an image of her hugging Saget at the two were seated in a pool area.",
+      "url": "https://www.dailymail.co.uk/tvshowbiz/article-10393233/Candace-Cameron-Bure-expresses-grief-following-House-star-Bob-Sagets-death-65.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2022/01/12/05/52823923-0-image-a-95_1641965620408.jpg",
+      "publishedAt": "2022-01-12T05:39:49Z",
+      "content": "Bob Saget spoke about his evolving approach to comedy, an influential mentor and his days as a student at Philadelphia's Temple University in what would be his final interview ahead of his shocking d… [+5066 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Newsday" },
+      "author": null,
+      "title": "Giants fire Judge after two seasons - Newsday",
+      "description": "",
+      "url": "https://projects.newsday.com/gdpr/",
+      "urlToImage": null,
+      "publishedAt": "2022-01-12T05:37:41Z",
+      "content": "It appears that you are trying to access our website from a location in the European Union, which enforces the General Data Protection Regulation (GDPR). Unfortunately,\r\n because of this regulation w… [+70 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Novak Djokovic admits breaking isolation while Covid positive - BBC News",
+      "description": "The tennis star addresses \"ongoing misinformation\" as Australia decides on his deportation.",
+      "url": "https://www.bbc.com/news/world-australia-59935127",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7130/production/_122667982_gettyimages-1364126648.jpg",
+      "publishedAt": "2022-01-12T05:30:08Z",
+      "content": "Image source, Getty Images\r\nImage caption, Djokovic has been preparing for the Australian Open since a judge overturned the government's decision to cancel his visa\r\nTennis star Novak Djokovic has ad… [+4591 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Gizmodo.com" },
+      "author": "Florence Ion",
+      "title": "Logitech's Litra Glow Makes YouTube-Level Lighting As Simple As It Gets - Gizmodo",
+      "description": "You don’t need a complicated setup to help you look better on camera.",
+      "url": "https://gizmodo.com/logitechs-litra-glow-makes-youtube-level-lighting-as-si-1848342318",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/989747331261aef7cb2617dd51d670b8.jpg",
+      "publishedAt": "2022-01-12T05:01:00Z",
+      "content": "I wish I had a solution like the Logitech Litra Glow when I started buying odds and ends to build my perfect office lighting situation. It took me a few years to land on my current setup for video ch… [+5156 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Monica Buchanan Pitrelli",
+      "title": "Travel is 'roaring back' — but the industry might not be ready for a boom - CNBC",
+      "description": "Despite the omicron variant, travelers are making plans to hit the road this year, whether the industry is ready for them or not.",
+      "url": "https://www.cnbc.com/2022/01/12/travel-is-roaring-back-thats-good-and-bad-for-travelers.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106999353-1641884965880-gettyimages-648679774-singularity0042eps.jpeg?v=1641946821",
+      "publishedAt": "2022-01-12T04:51:00Z",
+      "content": "Last year wasn't a stellar year for travelers.\r\nPerhaps that's why so many are pinning their hopes on 2022. \r\nTravel bookings and inquiries are surging, say travel insiders, in an upward trajectory t… [+5713 chars]"
+    },
+    {
+      "source": { "id": "the-hill", "name": "The Hill" },
+      "author": "Joseph Choi",
+      "title": "EU agency says omicron pushing COVID-19 out of pandemic phase | TheHill - The Hill",
+      "description": "An official from Europe's top medical product regulation agency said Tuesday that the COVID-19 om...",
+      "url": "https://thehill.com/policy/healthcare/589320-eu-regulator-questions-need-for-fourth-covid-19-vaccine-dose",
+      "urlToImage": "https://thehill.com/sites/default/files/article_images/coronavirus-vaccine_121521ap-matt-rourke_skeptical.jpg",
+      "publishedAt": "2022-01-12T03:57:15Z",
+      "content": "An official from Europe's top medical product regulation agency said Tuesday that the COVID-19 omicron variant may be pushing the pandemic into becoming endemic.\r\nMarco Cavaleri, head of vaccine stra… [+2355 chars]"
+    }
+  ]
+}
